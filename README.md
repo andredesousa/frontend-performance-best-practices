@@ -1,6 +1,8 @@
 # Front-End Performance Best Practices
 
-This is a guideline of best practices that we can apply to our JavaScript project.
+This is a guideline of best practices that we can apply to our front-end project.
+This guide will explore the causes of front-end performance issues and provide a list of best practices for optimizing web apps.
+These tips are based on books, articles and professional experience.
 
 ## Table of Contents
 
